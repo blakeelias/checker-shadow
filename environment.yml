@@ -19,3 +19,4 @@ dependencies:
   - pytables
   - spacy
   - einops
+  - imageio
