@@ -1,0 +1,21 @@
+name: checker-shadow
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.8
+  - git-lfs
+  - pytorch
+  - torchvision
+  - pandas
+  - tqdm
+  - fire
+  - torchtext
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pytables
+  - spacy
+  - einops
